@@ -1,8 +1,4 @@
-@font-face {
-    font-family: Culinary;
-    src: url(fonts/GreatVibes-Regular.ttf);
-  }
-
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 body {
     background-image: url('../img/bg.jpg');
@@ -23,7 +19,7 @@ h1 {
     color: rgb(129, 119, 119) !important;
     padding: 20px 0px 10px 10px;
     margin: 0px!important;
-    font-family: "Culinary";
+    font-family: 'Great Vibes', cursive;
     font-weight: bold;
     font-size: 50px!important;
     background-color: rgb(255, 255, 255);
@@ -33,7 +29,7 @@ h2, h3{
     color: rgb(129, 119, 119) !important;
     font-size: 40px !important;
     text-align: center;
-    font-family: "Culinary";
+    font-family: 'Great Vibes', cursive!important;
 }
 
 button {
@@ -49,7 +45,7 @@ button {
     padding-left: 30px;
     height: 125px;
     text-shadow: 1px 1px 1px white, 2px 2px 2px white, 3px 3px 3px white;
-    font-family: "Culinary"!important;
+    font-family: 'Great Vibes', cursive!important;
 }
 
 .container {
