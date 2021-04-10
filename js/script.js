@@ -81,5 +81,4 @@ function createRecipe(receita, recipes, id) {
 
     recipes.append(button);
     recipes.append(box);
-    
 }
