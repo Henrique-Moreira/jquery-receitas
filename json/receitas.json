@@ -22,7 +22,7 @@
             "Incorpore o creme de leite e retire do fogo antes de ferver.",
             "Sirva com arroz branco e batata palha."
         ],
-        "src": "/img/strogonoff.jpg"
+        "src": "img/strogonoff.jpg"
     },
     {
         "titulo": "Pavlova",
@@ -46,7 +46,7 @@
             "Decorar com frutas de sua preferência e levar à geladeira.",
             "Esta torta é finíssima de origem Australiana."
         ],
-        "src": "/img/pavlova.jpg"
+        "src": "img/pavlova.jpg"
     },
     {
         "titulo": "Coxinha de mandioca",
@@ -67,7 +67,7 @@
             "Modele as coxinhas colocando o recheio.",
             "Passe no ovo, farinha de rosca e frite."
         ],
-        "src": "/img/coxinha.jpg"
+        "src": "img/coxinha.jpg"
     },
     {
         "titulo": "Torta de Bolacha",
@@ -97,7 +97,7 @@
             "Coloque este creme branco sobre a torta.",
             "Sirva gelado."
         ],
-        "src": "/img/torta.jpg"
+        "src": "img/torta.jpg"
     },
     {
         "titulo": "Pamonha de Doce",
@@ -125,6 +125,6 @@
             "Quando estiver fervendo, coloque as pamonhas para cozinhar.",
             "Após cerca de 40 minutos de cozimento, retire as pamonhas, escorra o excesso de água, retire a palha do milho e sirva quente."
         ],
-        "src": "/img/pamonha.jpg"
+        "src": "img/pamonha.jpg"
     }
 ]
