@@ -74,5 +74,4 @@ function createRecipe(receita, recipes) {
     recipes.append(img);
     recipes.append(ingredientes);
     recipes.append(modo_preparo);
-
 }

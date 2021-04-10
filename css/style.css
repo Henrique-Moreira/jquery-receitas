@@ -1,3 +1,7 @@
+
+@import url(//db.onlinewebfonts.com/c/474c729bb9f706dac41385247d5dbc7c?family=Culinary);
+@font-face {font-family: "Culinary"; src: url("//db.onlinewebfonts.com/t/474c729bb9f706dac41385247d5dbc7c.eot");}
+
 body {
     background-image: url('../img/bg.jpg');
     background-color: rgba(0, 0, 0, 0.13);
@@ -6,6 +10,20 @@ body {
 .box {
     padding: 20px;
     display: flex;
+    background-color: #fefefe;
+}
+
+header {
+    background-color: #fefefe;
+}
+
+h1 {
+    color: rgb(129, 119, 119);
+    padding: 20px 0px 10px 30px;
+    margin: 0px!important;
+    font-family: "Culinary";
+    font-weight: bold;
+    font-size: 50px!important;
     background-color: rgb(255, 255, 255);
 }
 
@@ -16,7 +34,27 @@ h1 {
 
 h2, h3{
     text-align: center;
+    font-family: "Culinary";
 }
+
+button {
+    border: none!important;
+    outline: none!important;
+    background: url('../img/pavlova.jpg');
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-weight: bolder;
+    font-size: 40px !important;
+    text-align: left;
+    padding-left: 30px;
+    height: 100px;
+    text-shadow: 3px 3px 2px white, 4px 4px 2px white, 1px 1px 1px white;
+    font-family: "Culinary"!important;
+}
+
+
 
 button {
     background: url('https://t2.rg.ltmcdn.com/pt/images/4/5/2/img_torta_de_bolacha_com_flan_e_chocolate_4254_600.jpg');
