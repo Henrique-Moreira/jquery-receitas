@@ -1,33 +1,28 @@
 [
     {
-        "titulo": "Torta de Bolacha",
+        "titulo": "Strogonoff",
         "ingredientes": [
-            "3 colheres de maizena",
-            "5 colheres de chocolate em pó",
-            "2 ovos",
-            "1 xícara de açúcar",
-            "1 lata de leite condensado",
-            "1 lata de creme de leite",
-            "1 pacote de bolacha maria",
-            "1 l de leite e mais um pouco para molhar as bolachas"
+            "3 peitos de frango cortados em cubos",
+            "1 dente de alho picado",
+            "sal e pimenta a gosto",
+            "1 cebola picada",
+            "2 colheres (sopa) de maionese",
+            "1 colher de manteiga",
+            "1/2 copo de ketchup",
+            "1/3 copo de mostarda",
+            "1 copo de cogumelos",
+            "1 copo de creme de leite",
+            "batata palha a gosto"
         ],
         "modoPreparo": [
-            "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
-            "Coloque o leite aos poucos, para dissolver.",
-            "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
-            "Por último, coloque o leite condensado e misture bem.",
-            "Leve ao fogo e mexa de vez em quando.",
-            "Molhe as bolachas em um pouco de leite, e coloque uma camada de bolacha em um refratário grande até que cubra o fundo.",
-            "Não deixe a mistura engrossar muito, quando começar a ferver abaixe o fogo e misture até ficar cremosa.",
-            "Coloque uma camada de creme sobre as bolachas.",
-            "Repita a operação até a panela ficar vazia.",
-            "A última camada deve ser a do creme.",
-            "Bata as claras em neve, adicione as duas colheres de açúcar e bata mais um pouco.",
-            "Adicione por fim o creme de leite e misture agora com uma colher.",
-            "Coloque este creme branco sobre a torta.",
-            "Sirva gelado."
+            "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.",
+            "Em uma frigideira grande, derreta a manteiga e doure a cebola.",
+            "Junte o frango temperado até que esteja dourado.",
+            "Adicione os cogumelos, o ketchup e a mostarda.",
+            "Incorpore o creme de leite e retire do fogo antes de ferver.",
+            "Sirva com arroz branco e batata palha."
         ],
-        "src": "/img/torta.jpg"
+        "src": "/img/strogonoff.jpg"
     },
     {
         "titulo": "Pavlova",
@@ -73,6 +68,63 @@
             "Passe no ovo, farinha de rosca e frite."
         ],
         "src": "/img/coxinha.jpg"
+    },
+    {
+        "titulo": "Torta de Bolacha",
+        "ingredientes": [
+            "3 colheres de maizena",
+            "5 colheres de chocolate em pó",
+            "2 ovos",
+            "1 xícara de açúcar",
+            "1 lata de leite condensado",
+            "1 lata de creme de leite",
+            "1 pacote de bolacha maria",
+            "1 l de leite e mais um pouco para molhar as bolachas"
+        ],
+        "modoPreparo": [
+            "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
+            "Coloque o leite aos poucos, para dissolver.",
+            "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
+            "Por último, coloque o leite condensado e misture bem.",
+            "Leve ao fogo e mexa de vez em quando.",
+            "Molhe as bolachas em um pouco de leite, e coloque uma camada de bolacha em um refratário grande até que cubra o fundo.",
+            "Não deixe a mistura engrossar muito, quando começar a ferver abaixe o fogo e misture até ficar cremosa.",
+            "Coloque uma camada de creme sobre as bolachas.",
+            "Repita a operação até a panela ficar vazia.",
+            "A última camada deve ser a do creme.",
+            "Bata as claras em neve, adicione as duas colheres de açúcar e bata mais um pouco.",
+            "Adicione por fim o creme de leite e misture agora com uma colher.",
+            "Coloque este creme branco sobre a torta.",
+            "Sirva gelado."
+        ],
+        "src": "/img/torta.jpg"
+    },
+    {
+        "titulo": "Pamonha de Doce",
+        "ingredientes": [
+            "15 espigas de milho verde",
+            "150 g de açúcar cristal",
+            "150 g de manteiga derretida ou gordura de porco derretida",
+            "1 colher (chá) de sal",
+            "Queijo minas curado",
+            "Palha do milho para enrolar",
+            "Barbante de cozinha"
+        ],
+        "modoPreparo": [
+            "Rale as espigas de milho em um ralo grosso.",
+            "Adicione a manteiga ou a gordura de porco, o acúcar e o sal.",
+            "Misture e reserve.",
+            "Lave as palhas do milho e deixe-as secar.",
+            "Abra 2 palhas e disponha-a uma sobre a outra de modo que e a extremidade de uma sobrepasse a outra em 10 cm.",
+            "Coloque 3 colheres (sopa) da massa de milho sobre as palhas preparadas.",
+            "Adicione 1 fatia de queijo curado por cima.",
+            "Feche as palhas formando um cilindro.",
+            "Dobre uma das extremidades da palha sobre a massa. Em seguida, dobre a outra, formando assim uma trouxa (formato da pamonha).",
+            "Amarre com o barbante no sentido longitudinal e transversal.",
+            "Reserve.",
+            "Quando estiver fervendo, coloque as pamonhas para cozinhar.",
+            "Após cerca de 40 minutos de cozimento, retire as pamonhas, escorra o excesso de água, retire a palha do milho e sirva quente."
+        ],
+        "src": "/img/pamonha.jpg"
     }
-
 ]
