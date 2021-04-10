@@ -1,7 +1,7 @@
 [
     {
-        "Titulo": "Torta de Bolacha",
-        "Ingredientes": [
+        "titulo": "Torta de Bolacha",
+        "ingredientes": [
             "3 colheres de maizena",
             "5 colheres de chocolate em pó",
             "2 ovos",
@@ -11,7 +11,7 @@
             "1 pacote de bolacha maria",
             "1 l de leite e mais um pouco para molhar as bolachas"
         ],
-        "Modo de preparo": [
+        "modoPreparo": [
             "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
             "Coloque o leite aos poucos, para dissolver.",
             "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
@@ -30,8 +30,8 @@
         "src": "/img/torta.jpg"
     },
     {
-        "Titulo": "Pavlova",
-        "Ingredientes": [
+        "titulo": "Pavlova",
+        "ingredientes": [
             "4 claras",
             "16 colherese (sopa) de açucar ou seja (4 colheres para cada clara)",
             "2 colheres de (sopa rasa) de amido de milho",
@@ -40,7 +40,7 @@
             "chantilly",
             "frutas para decorar (secas ou frescas) tipo: morangos, abacaxi, kiwi, damasco"
         ],
-        "Modo de preparo": [
+        "modoPreparo": [
             "Coloque na batedeira: as claras e o açucar, bater devagar até ficar bem firme em ponto de suspiro.",
             "Desligue a batedeira e acrescente: o amido de milho, o vinagre de maça e a baunilha, mexa delicadamente.",
             "Unte com margarina uma assadeira redonda de uns 30 cm, coloque papel manteiga e unte novamente.",
@@ -54,8 +54,8 @@
         "src": "/img/pavlova.jpg"
     },
     {
-        "Titulo": "Coxinha de mandioca",
-        "Ingredientes": [
+        "titulo": "Coxinha de mandioca",
+        "ingredientes": [
             "2 copos (americano) de leite.",
             "2 colheres (sopa) de margarina.",
             "1 cubo de caldo de galinha.",
@@ -63,7 +63,7 @@
             "1/2 kg de mandioca cozida.",
             "Para o recheio utilize carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes)"
         ],
-        "Modo de preparo": [
+        "modoPreparo": [
             "Leve ao fogo: leite, margarina, caldo.",
             "Quando ferver junte toda farinha.",
             "Mexa até cozinhar bem.",
