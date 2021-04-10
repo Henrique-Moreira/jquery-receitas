@@ -18,7 +18,7 @@ header {
 }
 
 h1 {
-    color: rgb(129, 119, 119);
+    color: rgb(129, 119, 119) !important;
     padding: 20px 0px 10px 30px;
     margin: 0px!important;
     font-family: "Culinary";
@@ -27,12 +27,9 @@ h1 {
     background-color: rgb(255, 255, 255);
 }
 
-h1 {
-    color: black;
-    box-shadow: white;
-}
-
 h2, h3{
+    color: rgb(129, 119, 119) !important;
+    font-size: 40px !important;
     text-align: center;
     font-family: "Culinary";
 }
@@ -41,16 +38,16 @@ button {
     border: none!important;
     outline: none!important;
     background: url('../img/pavlova.jpg');
-    background-position-y: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: black;
+    background-position-y: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    color: black !important;
     font-weight: bolder;
     font-size: 40px !important;
     text-align: left;
     padding-left: 30px;
     height: 100px;
-    text-shadow: 3px 3px 2px white, 4px 4px 2px white, 1px 1px 1px white;
+    text-shadow: 1px 1px 1px white, 2px 2px 2px white, 3px 3px 3px white;
     font-family: "Culinary"!important;
 }
 
