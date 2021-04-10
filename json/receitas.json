@@ -1,0 +1,78 @@
+[
+    {
+        "titulo": "Torta de Bolacha",
+        "ingredientes": [
+            "3 colheres de maizena",
+            "5 colheres de chocolate em pó",
+            "2 ovos",
+            "1 xícara de açúcar",
+            "1 lata de leite condensado",
+            "1 lata de creme de leite",
+            "1 pacote de bolacha maria",
+            "1 l de leite e mais um pouco para molhar as bolachas"
+        ],
+        "modo_preparo": [
+            "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
+            "Coloque o leite aos poucos, para dissolver.",
+            "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
+            "Por último, coloque o leite condensado e misture bem.",
+            "Leve ao fogo e mexa de vez em quando.",
+            "Molhe as bolachas em um pouco de leite, e coloque uma camada de bolacha em um refratário grande até que cubra o fundo.",
+            "Não deixe a mistura engrossar muito, quando começar a ferver abaixe o fogo e misture até ficar cremosa.",
+            "Coloque uma camada de creme sobre as bolachas.",
+            "Repita a operação até a panela ficar vazia.",
+            "A última camada deve ser a do creme.",
+            "Bata as claras em neve, adicione as duas colheres de açúcar e bata mais um pouco.",
+            "Adicione por fim o creme de leite e misture agora com uma colher.",
+            "Coloque este creme branco sobre a torta.",
+            "Sirva gelado."
+        ],
+        "src": "/img/torta.jpg"
+    },
+    {
+        "titulo": "Pavlova",
+        "ingredientes": [
+            "4 claras",
+            "16 colherese (sopa) de açucar ou seja (4 colheres para cada clara)",
+            "2 colheres de (sopa rasa) de amido de milho",
+            "1 colher de (chá) de vinagre branco de maçã",
+            "1 colher de (café) de baunilha.",
+            "chantilly",
+            "frutas para decorar (secas ou frescas) tipo: morangos, abacaxi, kiwi, damasco"
+        ],
+        "modo_preparo": [
+            "Coloque na batedeira: as claras e o açucar, bater devagar até ficar bem firme em ponto de suspiro.",
+            "Desligue a batedeira e acrescente: o amido de milho, o vinagre de maça e a baunilha, mexa delicadamente.",
+            "Unte com margarina uma assadeira redonda de uns 30 cm, coloque papel manteiga e unte novamente.",
+            "Despeje o merengue e leve ao forno pré-aquecido em 150ºC a 180ºC até ficar moreninho.",
+            "Não abra o forno, verifique pelo vidro.",
+            "Depois de pronto deixe esfriar dentro do próprio forno.",
+            "Bater o chantilly com um pouquinho de baunilha e colocar delicadamente em cima do merengue já desenformado.",
+            "Decorar com frutas de sua preferência e levar à geladeira.",
+            "Esta torta é finíssima de origem Australiana."
+        ],
+        "src": "/img/pavlova.jpg"
+    },
+    {
+        "titulo": "Coxinha de mandioca",
+        "ingredientes": [
+            "2 copos (americano) de leite.",
+            "2 colheres (sopa) de margarina.",
+            "1 cubo de caldo de galinha.",
+            "2 copos (americano) de farinha de trigo.",
+            "1/2 kg de mandioca cozida.",
+            "Para o recheio utilize carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes)"
+        ],
+        "modo_preparo": [
+            "Leve ao fogo: leite, margarina, caldo.",
+            "Quando ferver junte toda farinha.",
+            "Mexa até cozinhar bem.",
+            "Desligue.",
+            "Misture a mandioca e sove para agregar.",
+            "Modele as coxinhas colocando o recheio.",
+            "Passe no ovo, farinha de rosca e frite."
+        ],
+        "src": "/img/coxinha.jpg"
+    }
+
+]
