@@ -1,6 +1,8 @@
+@font-face {
+    font-family: Culinary;
+    src: url(/fonts/GreatVibes-Regular.ttf);
+  }
 
-@import url(//db.onlinewebfonts.com/c/474c729bb9f706dac41385247d5dbc7c?family=Culinary);
-@font-face {font-family: "Culinary"; src: url("//db.onlinewebfonts.com/t/474c729bb9f706dac41385247d5dbc7c.eot");}
 
 body {
     background-image: url('../img/bg.jpg');
@@ -42,7 +44,6 @@ button {
     background-repeat: no-repeat !important;
     background-size: cover !important;
     color: black !important;
-    font-weight: bolder;
     font-size: 40px !important;
     text-align: left;
     padding-left: 30px;
