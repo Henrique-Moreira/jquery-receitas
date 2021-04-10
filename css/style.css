@@ -3,6 +3,8 @@
 body {
     background-image: url('../img/bg.jpg');
     background-color: rgba(0, 0, 0, 0.13);
+    overflow: scroll;
+    overflow-x: hidden;
 }
 
 .box {

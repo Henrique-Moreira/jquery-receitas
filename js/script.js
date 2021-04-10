@@ -3,7 +3,8 @@ $(document).ready(function() {
 });
 
 function toggle(toggle) {
-    $(`#${toggle}`).fadeToggle();
+    // fadeToggle
+    $(`#${toggle}`).slideToggle(1000);
 }
 
 function getReceitas() {
