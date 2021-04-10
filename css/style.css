@@ -1,5 +1,21 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-color: rgba(0, 0, 0, 0.13);
+}
+
 .box {
+    padding: 20px;
     display: flex;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: black;
+    box-shadow: white;
+}
+
+h2, h3{
+    text-align: center;
 }
 
 button {
@@ -8,6 +24,7 @@ button {
     text-align: left;
     padding-left: 30px;
     height: 100px;
+    
 }
 
 .accordion {
@@ -15,6 +32,7 @@ button {
     flex-direction: column;
 }
 
-.metade {
-
+img {
+    width: 100%;
+    border-radius: 5%;
 }
