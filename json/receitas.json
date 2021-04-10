@@ -11,7 +11,7 @@
             "1 pacote de bolacha maria",
             "1 l de leite e mais um pouco para molhar as bolachas"
         ],
-        "modoPreparo": [
+        "modo_preparo": [
             "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
             "Coloque o leite aos poucos, para dissolver.",
             "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
@@ -40,7 +40,7 @@
             "chantilly",
             "frutas para decorar (secas ou frescas) tipo: morangos, abacaxi, kiwi, damasco"
         ],
-        "modoPreparo": [
+        "modo_preparo": [
             "Coloque na batedeira: as claras e o açucar, bater devagar até ficar bem firme em ponto de suspiro.",
             "Desligue a batedeira e acrescente: o amido de milho, o vinagre de maça e a baunilha, mexa delicadamente.",
             "Unte com margarina uma assadeira redonda de uns 30 cm, coloque papel manteiga e unte novamente.",
@@ -63,7 +63,7 @@
             "1/2 kg de mandioca cozida.",
             "Para o recheio utilize carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes)"
         ],
-        "modoPreparo": [
+        "modo_preparo": [
             "Leve ao fogo: leite, margarina, caldo.",
             "Quando ferver junte toda farinha.",
             "Mexa até cozinhar bem.",
